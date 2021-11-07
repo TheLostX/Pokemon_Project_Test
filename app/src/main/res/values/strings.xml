@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokemonProjectTest</string>
+    <string name="rb_alt1">Tipo Fuego</string>
+    <string name="rb_alt2">Tipo Hierba</string>
+    <string name="rb_alt3">Tipo Agua</string>
+    <string name="rb_alt4">Otro</string>
+    <string name="tv_descripcion_final">¿De que tipo es este pokemon?</string>
+</resources>
